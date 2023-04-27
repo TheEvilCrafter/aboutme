@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 Currently working on: way to much<br>🌱 Learning: Javascript, Html<br>💬 Ask me about: discord related tools like raid toolboxes and stuff<br>⚡ Fun fact: I like men (jk)
 
 
@@ -15,8 +15,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=TheEvilCrafter&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/TheEvilCrafter) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  ## 💰 Donate smth please
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/TheEvilCrafter)
